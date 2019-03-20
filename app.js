@@ -10,3 +10,5 @@ console.log(7)
 console.log(8)
 
 console.log('b')
+
+console.log('中文')
