@@ -12,3 +12,4 @@ console.log(8)
 console.log('b')
 
 console.log('中文')
+console.log('english')
