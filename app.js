@@ -12,3 +12,4 @@ console.log(8)
 console.log('b')
 
 console.log('嘻嘻')
+console.log('哈哈')
